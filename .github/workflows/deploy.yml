@@ -4,6 +4,7 @@ on:
     branches:
       - main
       - dev
+      - master
 env:
   CACHE_KEY: node-deps
   MONGODB_DB_NAME: gha-demo
